@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.4] - 2026-08-14
+
+### Miscellaneous Tasks
+
+- Bump tower-mcp and tower-mcp-types to 0.22.0 ([#233](https://github.com/joshrotenberg/mcp-proxy/pull/233))
+
+
+
 ## [0.4.3] - 2026-08-05
 
 ### Bug Fixes
